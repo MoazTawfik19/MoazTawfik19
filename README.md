@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoazTawfik19
+- 👋 Hi, I am MoazTawfik -
 - 👀 I’m interested in Ai and Data Science
 - 🌱 I’m currently learning to start my career as a Data Scientisi
 - 💞️ I’m looking to collaborate on projects for marketing and health care projects
