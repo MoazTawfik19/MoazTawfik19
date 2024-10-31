@@ -2,7 +2,7 @@
 -  I’m interested in Ai and Data Science
 - 🌱 I’m currently learning machine learning with python 
 - 📫 You can reach me through moaztawfik95@gmial.com 
-- 😄 Always learn New Things.
+- ⚡  Always learn New Things.
 
 
 <!---
